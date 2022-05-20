@@ -11,7 +11,7 @@ public class Program{
                 Task_2.TelefonBook();
                 break;
             case 3:
-                //CatchPovtor();
+                Task_3.CatchPovtor();
                 break;
             case 4:
                 //NoteBook();
