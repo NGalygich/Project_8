@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Petrov Petr Petrovich">
+  <Address>
+    <Street>st.Lenina</Street>
+    <HouseNumber>12</HouseNumber>
+    <FlatNumber>123</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>89999999999</MobilePhone>
+    <FlatPhone>3422323</FlatPhone>
+  </Phones>
+</Person>

@@ -14,7 +14,7 @@ public class Program{
                 Task_3.CatchPovtor();
                 break;
             case 4:
-                //NoteBook();
+                Task_4.NoteBook();
                 break;
             default:
                 break;
